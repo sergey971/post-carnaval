@@ -1,0 +1,23 @@
+#red {
+	color: red;
+}
+#green{
+	color: green;
+}
+
+input {
+color: #green;
+background-color: #FFFFFF;
+border: 2px solid rgba(118,2,0,1);
+}
+
+textarea {
+color: #green;
+background-color: #FFFFFF;
+border: 2px solid rgba(118,2,0,1);
+}
+
+button{
+	color: red;
+	background-color: #FFFFFF
+}
